@@ -2,7 +2,7 @@
 
 **Disciplina:** Auditoria 1 (1º Semestre / 2026)  
 **Instituição:** Universidade de Brasília (UnB)  
-**Professor:** Lucas 
+**Professor:** Lucas
 **Autor:** Wilton Gabriel
 ---
 
