@@ -2,9 +2,8 @@
 
 **Disciplina:** Auditoria 1 (1º Semestre / 2026)  
 **Instituição:** Universidade de Brasília (UnB)  
-**Professor:** Lucas Oliveira Gomes Ferreira  
-**Autor:** Wilton Gabriel Nascimento Fonseca  
-
+**Professor:** Lucas 
+**Autor:** Wilton Gabriel
 ---
 
 ## 📌 Sobre o Projeto
@@ -16,7 +15,7 @@ O planejamento abrange desde as precondições e a fase de aceitação do client
 
 Conforme as exigências da avaliação, os artefatos do projeto estão organizados da seguinte forma:
 
-* **`[PDF_Consolidado_P1_ALPA4].pdf`**: Arquivo principal contendo as respostas detalhadas das 20 questões propostas, redigidas no padrão de memorandos e papéis de trabalho de auditoria. Este arquivo já engloba:
+* **`[PDF_AUD_1_-ALPA4_-_WILTON].pdf`**: Arquivo principal contendo as respostas detalhadas das 20 questões propostas, redigidas no padrão de memorandos e papéis de trabalho de auditoria. Este arquivo já engloba:
   * A prova em formato Word preenchida.
   * O Formulário de Referência (FRE) 2025 da Alpargatas.
   * As Demonstrações Financeiras Padronizadas (DFP) e Notas Explicativas.
